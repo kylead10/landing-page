@@ -182,7 +182,8 @@ h4 {
 }
 
 p {
-  margin: 4rem 0;
+  font-weight: 300;
+  font-size: 30px;
 }
 /* responsive */
 
@@ -208,6 +209,8 @@ p {
   }
 
   p {
-    margin: 2rem 0;
+    font-weight: 400;
+    /* margin: 2rem 0; */
+    font-size: 25px;
   }
 }
