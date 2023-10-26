@@ -1,1 +1,1 @@
-A personal porfolio landing page built using Html, Css and javascript.
+A personal porfolio landing page built using Html, Css and Javascript.
