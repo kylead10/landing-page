@@ -1,1 +1,1 @@
-A porfolio landing page
+A personal porfolio landing page
