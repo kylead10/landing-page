@@ -214,3 +214,19 @@ p {
     font-size: 25px;
   }
 }
+.social-links {
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  font-size: 40px;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #4183c4; /* Change to LinkedIn blue */
+}
