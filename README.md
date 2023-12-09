@@ -1,1 +1,1 @@
-A personal portfolio landing website built using Html, Css and Javascript.
+A personal portfolio landing website built using Html, CSS and Javascript.
